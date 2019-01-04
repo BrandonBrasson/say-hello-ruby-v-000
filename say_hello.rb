@@ -3,4 +3,3 @@
 def say(name)
   puts "Hello #{name}!"
 end
-
